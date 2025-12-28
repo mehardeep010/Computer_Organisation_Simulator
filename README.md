@@ -50,4 +50,4 @@ beq zero, zero, 0
 
 ---
 
-**CO Project | IIIT Delhi **
+CO Project | Sem 2 | Mehardeep,Kanishk,Aastha,Ashwini
