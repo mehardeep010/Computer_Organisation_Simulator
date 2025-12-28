@@ -1,4 +1,4 @@
-# RISC-V Assembler
+# RISC-V Assembler & Simulator
 
 Converts RISC-V assembly to 32-bit machine code.
 
